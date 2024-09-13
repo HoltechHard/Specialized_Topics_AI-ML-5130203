@@ -27,3 +27,10 @@ The students will need select one specific use case with their respective datase
   - report between 4-8 pages (Responsible: Project Manager) in format of paper following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results; 4- Conclusions;
   - information system (Responsible: Software Engineers) which contains frontend, and backend with connection with small database;
   - trained AI-model (Responsible: Machine Learning Engineer) with jupyter notebook source code, experiments of inference and performance results.
+
+### Week 01 - Introduction to the fundamentals of AI (Lecture **The unstoppable rise of AI**)  
+
+Homework (from 13.09 until 20.09):    
+1) Analyze the slides in the file conference-ai-11-09-2024.pdf and do some more research by your own about the topics covered in the week 01. In a brief 1-page summary (in English pdf format and individually), comment on what you understood from the first class and select from the list of AI subfields described in slide 5, the topic which you think it's the most interesting for you and what previous knowledge and experience you have with this topic and expectations that you have related to what you will learn in your course.  
+2) Define groups of 4 students and the roles that each student will play in the final project. Send the group list to Farida (leader of group 20101) and Kristina (leader of group 20102). ** It is not yet necessary to define the project topic, this will be defined in week 10 **.
+
