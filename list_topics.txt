@@ -2,6 +2,8 @@
 |     SEMINAR OF SPECIALIZED TOPICS ABOUT ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING    |
 ==========================================================================================
 
+List of topics:  
+  
 01) Fundamentals of ML and Statistical Learning
 02) ML: Regression problems
 03) ML: Classification problems
