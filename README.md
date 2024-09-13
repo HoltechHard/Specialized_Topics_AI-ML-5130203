@@ -21,7 +21,7 @@ For the completion of the final course project, the students will organize in gr
   - Software Engineer: responsible for design the frontend of aplication and integration with backend and database
   - Machine Learning Engineer: responsible for machine learning operations (preprocessing, design of model architecture, training, testing, validation and inference process)
 
-The students will need select one specific use case (financial, medical, comercial, educational, industrial, etc.) and fix this problem through the implementation of a small intelligent information system that contains frontend, backend, small database and AI-model. In the session of exams (сессия по зкзамене) each group will make presentation (доклад) of the next products:  
+The students will need select one specific use case with their respective dataset (financial, medical, comercial, educational, industrial, etc.) and fix this problem through the implementation of a small intelligent information system that contains frontend, backend, small database and AI-model. In the session of exams (сессия по зкзамене) each group will make presentation (доклад) of the next products:  
   - report between 4-8 pages (Responsible: Project Manager) in format of paper following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results; 4- Conclusions;
   - information system (Responsible: Software Engineer) which contains frontend, and backend with conection with small database;
   - trained AI-model (Responsible: Machine Learning Engineer) with jupyter notebook source code, experiments of inference and performance results.
