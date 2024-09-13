@@ -6,7 +6,7 @@ The main purpose of the course is offer to the students of professional carreer 
 
 2) Organization of the lectures  
 
-- First 10 lectures: Will be seletect 5 specialized AI and ML topics from document **list_topics.txt** distributed and discussed in 2 weeks each one with theory and practice in both;
+- First 10 lectures: Will be seletect 5 specialized AI and ML topics from document **list_topics.txt** distributed and discussed in 2 weeks with theory and practice in both;  
 - Last 3 lectures: Laboratories about software implementation and integration of information system with AI-models.
 
 3) Repository with materials  
