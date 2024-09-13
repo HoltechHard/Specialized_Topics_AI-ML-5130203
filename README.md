@@ -4,9 +4,10 @@
 
 The main purpose of the course is offer to the students of professional carreer **Интеллектуальные информационные системы и обработка данных** (Intelligent-information systems and data processing - 5130203/20101 and 20102), the capacity to have precise understanding about the theoretical fundamentals and technical-practical capabilities to implement models of the most known subfields of Artificial Intelligence (Machine Learning, Deep Learning and Reinforcement Learning), concluding with the integration of these AI-models into real use information systems.  
 
-2) Organization of the lectures
+2) Organization of the lectures  
 
-
+- First 10 lectures: Will be seletect 5 specialized AI and ML topics from document **list_topics.txt** distributed and discussed in 2 weeks each one with theory and practice in both;
+- Last 3 lectures: Laboratories about software implementation and integration of information system with AI-models.
 
 3) Repository with materials  
 
