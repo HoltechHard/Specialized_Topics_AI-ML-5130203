@@ -1,0 +1,22 @@
+============================================================================
+|     MAIN TOPICS FOR COURSE SEMINAR OF SPECIALIZED TOPICS OF AI AND ML    |
+============================================================================
+
+01) Fundamentals of ML and Statistical Learning
+02) ML: Regression problems
+03) ML: Classification problems
+04) ML: Clusterization problems
+05) ML: Dimensionality reduction problems
+06) DL: Perceptron and MLP
+07) DL: Computer Vision
+08) DL: Natural Language Processing
+09) DL: Signal Processing
+10) DL: Audio and Video Processing
+11) DL: Time Series
+12) DL: Multimodal Deep Learning
+13) Generative-AI
+14) RL: Fundamentals
+15) Knowledge Extraction with RAG
+16) Agents, Multi-Agents and Collaborative-Agents
+17) AGI and ASI
+18) Research frontiers of AI
