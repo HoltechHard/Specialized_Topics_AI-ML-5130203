@@ -17,12 +17,13 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 
 4) Final Project for Course  
 
-For the completion of the final course project, the students will organize in groups of 3 students, which each one will play one or more of the next roles:  
-  - Project Manager: responsible for structure the project, the definition of what technologies will be use (frameworks, libraries, databases, etc.), and redaction of the final report
-  - Software Engineer: responsible for design the frontend of aplication and integration with backend and database
+For the completion of the final course project, the students will organize in groups of 4 students, which each one will play one or more of the next roles:  
+  - Project Manager: responsible for structure the project, the definition of the use-case problem and what technologies will be use (frameworks, libraries, databases, models, etc.), and redaction of the final report;
+  - Software Engineer - Frontend: responsible for design the frontend development and validation of aplication;
+  - Software Engineer - Backend: responsible for integration of frontend with backend and database;
   - Machine Learning Engineer: responsible for machine learning operations (preprocessing, design of model architecture, training, testing, validation and inference process)
 
 The students will need select one specific use case with their respective dataset (financial, medical, comercial, educational, industrial, etc.) and fix this problem through the implementation of a small intelligent information system that contains frontend, backend, small database and AI-model. In the session of exams (сессия по зкзамене) each group will make presentation (доклад) of the next products:  
   - report between 4-8 pages (Responsible: Project Manager) in format of paper following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results; 4- Conclusions;
-  - information system (Responsible: Software Engineer) which contains frontend, and backend with connection with small database;
+  - information system (Responsible: Software Engineers) which contains frontend, and backend with connection with small database;
   - trained AI-model (Responsible: Machine Learning Engineer) with jupyter notebook source code, experiments of inference and performance results.
