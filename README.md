@@ -2,7 +2,7 @@
 
 1) Goals of Course  
 
-The main purpose of the course is offer to the students of professional carreer **Интеллектуальные информационные системы и обработка данных** (Intelligent-information systems and data processing - 5130203/20101 and 20102), the capacity to have precise understanding about the theoretical fundamentals and technical-practical capabilities to implement models of the most known subfields of Artificial Intelligence (Machine Learning, Deep Learning and Reinforcement Learning), concluding with the integration of these AI-models into real use information systems.  
+The main purpose of the course is offer to the students of professional carreer **Интеллектуальные информационные системы и обработка данных** (Intelligent-information systems and data processing - 5130203/20101 and 20102), the capacity to have precise understanding about the theoretical/math fundamentals and technical-practical capabilities to implement models of the most known subfields of Artificial Intelligence (Machine Learning, Deep Learning and Reinforcement Learning), concluding with the integration of these AI-models into real use information systems.  
 
 2) Organization of the lectures  
 
