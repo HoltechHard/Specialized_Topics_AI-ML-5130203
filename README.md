@@ -6,8 +6,8 @@ The main purpose of the course is offer to the students of professional carreer 
 
 2) Organization of the Lectures  
 
-- First 10 lectures: Will be seletect 5 specialized AI and ML topics from document **list_topics.txt** distributed and discussed in 2 weeks with theory and practice in both;  
-- Last 3 lectures: Laboratories about software implementation and integration of information system with AI-models.
+- First 10 lectures (related with theory and labs): Will be seletect 5 specialized AI and ML topics from document **list_topics.txt** distributed and discussed in 2 weeks with theory and practice in both;  
+- Last 3 lectures (related with final project): Laboratories about software implementation and integration of information system with AI-models.  
 
 3) Repository with Materials  
 
@@ -28,9 +28,9 @@ The students will need select one specific use case with their respective datase
   - information system (Responsible: Software Engineers) which contains frontend, and backend with connection with small database;
   - trained AI-model (Responsible: Machine Learning Engineer) with jupyter notebook source code, experiments of inference and performance results.
 
-### Week 01 - Introduction to the fundamentals of AI (Lecture **The unstoppable rise of AI**)  
+### Week 01 - Introduction to the fundamentals of AI  
 
 Homework (from 13.09 until 20.09):    
-1) Analyze the slides in the file conference-ai-11-09-2024.pdf and do some more research by your own about the topics covered in the week 01. In a brief 1-page summary (in English pdf format and individually), comment on what you understood from the first class and select from the list of AI subfields described in slide 5, the topic which you think it's the most interesting for you and what previous knowledge and experience you have with this topic and expectations that you have related to what you will learn in your course.  
-2) Define groups of 4 students and the roles that each student will play in the final project. Send the group list to Farida (leader of group 20101) and Kristina (leader of group 20102). ** It is not yet necessary to define the project topic, this will be defined in week 10 **.
+1) Analyze the slides in the file conference-ai-11-09-2024.pdf and do some more research by your own about the topics covered in the week 01. In a brief 1-page summary (in English pdf format and individually), comment on what you understood from the first class and select from the list of AI subfields described in slide 5, the topic which you think it's the most interesting for you and what previous knowledge and experience you have with this topic and expectations that you have related to what you will learn in our course.  
+2) Define groups of 4 students and the roles that each student will play in the final project. Send the group list to Farida (leader of the group 20101) and Kristina (leader of the group 20102). **Still it's not necessary to define the project topic, this will define around week 9-10**.
 
