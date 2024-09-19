@@ -1,7 +1,9 @@
-============================================================================
-|     MAIN TOPICS FOR COURSE SEMINAR OF SPECIALIZED TOPICS OF AI AND ML    |
-============================================================================
+==========================================================================================
+|     SEMINAR OF SPECIALIZED TOPICS ABOUT ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING    |
+==========================================================================================
 
+List of topics:  
+  
 01) Fundamentals of ML and Statistical Learning
 02) ML: Regression problems
 03) ML: Classification problems
@@ -17,6 +19,6 @@
 13) Generative-AI
 14) RL: Fundamentals
 15) Knowledge Extraction with RAG
-16) Agents, Multi-Agents and Collaborative-Agents
-17) AGI and ASI
-18) Research frontiers of AI
+16) Integration of Information Systems with AI-models
+17) Agents, Multi-Agents and Collaborative-Agents
+18) AGI and ASI
