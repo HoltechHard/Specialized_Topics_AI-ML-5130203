@@ -11,9 +11,10 @@ Link of the repository:
 https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sharing  
   
 ### Lesson 02 - Fundamentals of Machine Learning and Statistical Learning  
+--------------------------------------------------------------------------  
 
-Homework (from 26.09 until 09.10):    
-----------------------------------  
+**Homework (from 26.09 until 09.10):**    
+  
 1) Project of Statistical Analysis for tabular data
    - Take as template the jupyter notebook **lesson02/lab02.ipynb** worked in laboratory to make Statistical Analysis for Numerical and Categorical features;
    - Select one dataset with tabular data structure, which contains numerical and categorical type of data (need both necessarily). Dataset need have minimum 500 rows and number of columns (features) min = 6 and max = 50. You can use your own datasets from your past projects, your company or take one of the public datasets in the most popular repositories UCI (https://archive.ics.uci.edu/datasets); Kaggle (https://www.kaggle.com/datasets) or Google Dataset Search (https://datasetsearch.research.google.com). Your dataset can have format of file like .csv, .xls, .json, .sql, .data, .txt ... etc;  
@@ -28,10 +29,11 @@ Homework (from 26.09 until 09.10):
    - Read the paper titled **Statistical Learning Theory: Models, Concepts, and Results (von Luxburg, Scholkopf)** the topics 1, 2.1, 2.2 in google drive repository;
    - Make report of 1 page in pdf format (publish it in GitHub) explaining the problem of binary classification (in formal math way). Answer the question: How SLT offer math basic framework to solve the problem of binary classification in Machine Learning?  
 
-### Lesson 01 - Introduction to the fundamentals of AI  
+### Lesson 01 - Introduction to the fundamentals of AI    
+-------------------------------------------------------  
 
-Homework (from 13.09 until 20.09):    
-----------------------------------  
+**Homework (from 13.09 until 20.09):**    
+  
 1) Analyze the slides in the file conference-ai-11-09-2024.pdf and do some more research by your own about the topics covered in the week 01. In a brief 1-page summary (in English pdf format and individually), comment on what you understood from the first class and select from the list of AI subfields described in slide 5, the topic which you think it's the most interesting for you and what previous knowledge and experience you have with this topic and expectations that you have related to what you will learn in our course.  
 2) Define groups of 4 students and the roles that each student will play in the final project. Send the group list to Farida (leader of the group 20101) and Kristina (leader of the group 20102). **Still it's not necessary to define the project topic, this will define around week 9-10**.
     
