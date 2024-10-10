@@ -10,6 +10,10 @@ The repository will contain all the slides of lectures and the necessary files t
 Link of the repository:  
 https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sharing  
   
+### Lesson 03 - Machine Learning I: Regression  
+----------------------------------------------  
+  
+  
 ### Lesson 02 - Fundamentals of Machine Learning and Statistical Learning  
 --------------------------------------------------------------------------  
 **Homework (from 26.09 until 09.10):**    
