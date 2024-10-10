@@ -7,11 +7,15 @@
 $ .\ml_env\Scripts\activate
 $ cd lesson03
 
-1) Install gdown library to donwload Kaggle datasets stored in gdrive
+2) Install gdown library to donwload Kaggle datasets stored in gdrive
 
 $ pip install gdown
 
-2) donwload melbourne housing dataset
+3) install the new python libraries to work with xgboost and lgbm
+
+$ pip install -r requirements.txt
+
+4) donwload melbourne housing dataset
 
 $ gdown --id 1bIa7HOtpakl1Qzn6pmKCMAzrWjM08mfI --output dataset/melbourne_housing.csv
 
