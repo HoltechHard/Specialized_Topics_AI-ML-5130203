@@ -11,10 +11,9 @@ class KNNModel:
     def __init__(self):
         # Hyperparameters definition
         self.params = {
-            "n_neighbors": [3, 5, 7, 9],
+            "n_neighbors": [5, 7],
             "weights": ["uniform", "distance"],
-            "algorithm": ['auto', 'ball_tree', 'kd_tree', 'brute'],
-            "leaf_size": [10, 20, 30],
+            "algorithm": ["auto", "ball_tree", "kd_tree"],
             "metric": ["euclidean", "manhattan"]
         }
 
@@ -45,7 +44,7 @@ class SVMModel:
             "C": [0.1, 1, 10],
             "kernel": ["linear", "rbf", "poly"],
             "gamma": ["scale", "auto"],
-            "degree": [2, 3, 4],
+            "degree": [2, 3],
             "class_weight": ["balanced"]
         }
 
@@ -73,11 +72,11 @@ class RandomForestModel:
     def __init__(self):
         # Hyperparameters definition 
         self.params = {
-            "n_estimators": [50, 100, 200],
+            "n_estimators": [10, 20, 40],
             "max_depth": [10, 20, 30],
-            "min_samples_split": [2, 5, 10],
+            "min_samples_split": [5, 10, 20],
             "min_samples_leaf": [1, 2, 4],
-            "max_features": [1, 2, 3, 'sqrt', 'log2']
+            "max_features": ["sqrt", "log2"]
         }
 
     def train(self, x_train, y_train):
@@ -101,18 +100,17 @@ class RandomForestModel:
 class XGBoostModel:
     def __init__(self):
         # Hyperparameters definition
-        self.params = {
-            "max_depth": [8, 16, 32],
+        self.params = {            
+            "n_estimators": [20, 50, 100],
             "learning_rate": [0.01, 0.05, 0.1],
+            "max_depth": [8, 16, 32],
             "subsample": [0.7, 0.8],
-            "colsample_bytree": [0.8, 0.9],
-            "n_estimators": [50, 100, 200],
-            "objective": ["binary:logistic"]
+            "colsample_bytree": [0.8, 0.9]            
         }
 
     def train(self, x_train, y_train):
         # Define the model
-        model = xgb.XGBClassifier(use_label_encoder=False, eval_metric='logloss')
+        model = xgb.XGBClassifier()
         
         # Hyperparameter optimization 
         grid_search = GridSearchCV(estimator=model,

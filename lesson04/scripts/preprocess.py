@@ -77,9 +77,25 @@ class DataPreprocessing:
 
     # iteratively pie chart
     def iter_piechart(self, dataset, categ_cols):
-        for col in categ_cols:
-            self.plot_piechart(dataset, col)
+        # calculate the nrows and ncols for plots
+        ncol_plots = 2
+        nrow_plots = (len(categ_cols) + ncol_plots - 1) // ncol_plots
+        # create the subplots for specific row and column
+        fig, axs = plt.subplots(nrow_plots, ncol_plots, figsize = (16, 4 * nrow_plots))
+        axs = axs.flatten()
 
+        for i, col in enumerate(categ_cols):
+            # count the #samples for each categogy
+            results = dataset[col].value_counts()
+            # calculate the relative frequencies
+            total_samples = results.sum()
+            rel_freq = results/total_samples
+            sbn.set_style("whitegrid")    
+            axs[i].pie(rel_freq.values.tolist(), labels = rel_freq.index.tolist(), autopct='%1.1f%%')
+            axs[i].set_title("Relative frequency analysis by " + col)
+        plt.tight_layout()
+        plt.show()
+                
     # probability distribution of the target variable
     def plot_target_distribution(self, data, target):
         plt.figure(figsize=[8,4])
