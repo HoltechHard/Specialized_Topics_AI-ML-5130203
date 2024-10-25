@@ -9,7 +9,14 @@ The main purpose of the course is offer to the students of professional carreer 
 The repository will contain all the slides of lectures and the necessary files to can complete the assigned tasks, and it will be updated each friday of the week.  
 Link of the repository:  
 https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sharing  
-  
+
+### Lesson 04 - Machine Learning I: Classification  
+---------------------------------------------------  
+**Homework (from 26.10 until 06.11):**    
+1) Choose 1 machine learning task: REGRESSION or CLASSIFICATION;
+2) Select one dataset with tabular data structure, which contains numerical and categorical type of data (need both necessarily). Dataset need have minimum 500 rows and number of columns (features) min = 6 and max = 50. You can use your own datasets from your past projects, your company or take one of the public datasets in the most popular repositories UCI (https://archive.ics.uci.edu/datasets); Kaggle (https://www.kaggle.com/datasets) or Google Dataset Search (https://datasetsearch.research.google.com). Your dataset can have format of file like .csv, .xls, .json, .sql, .data, .txt ... etc;  
+3) In groups of 5 students, apply the entire pipeline of supervised learning, and get as result a benchmark of metrics for the task choosing 3 algorithms.
+    
 ### Lesson 03 - Machine Learning I: Regression  
 ----------------------------------------------  
   
