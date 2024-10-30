@@ -1,7 +1,7 @@
 # Specialized_Topics_AI-ML-5130203  
 
 ### Main Goals of Course  
-
+  
 The main purpose of the course is offer to the students of professional carreer **Интеллектуальные информационные системы и обработка данных** (Intelligent-information systems and data processing - 5130203/20101 and 20102), the capacity to have precise understanding about the theoretical/math fundamentals and technical-practical capabilities to implement models of the most known subfields of Artificial Intelligence (Machine Learning, Deep Learning and Reinforcement Learning), concluding with the integration of these AI-models into real useful information systems.  
   
 ### Repository with Materials  
@@ -12,49 +12,53 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
   
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
-**Topics: **  
+**Topics:**  
+   
 1) Perceptron  
 2) Adaline  
 3) Logistic Regression  
 4) Multilayer Perceptron
-5) **Laboratory: ** Case of study - implementation from scratch of internal mechanisms of neural nets and train/testing it on known datasets  
+5) **Laboratory:** Case of study - implementation from scratch of internal math mechanisms of neural nets and train/testing it on known datasets  
 
 ### Lesson 04 - Machine Learning II: Classification  
 ---------------------------------------------------  
-**Topics: **  
+**Topics:**   
+  
 1) Math definition of classification problem
 2) Loss functions and evaluation metrics for classifiers
 3) K-Nearest Neighboors
 4) Support Vector Machines
 5) Decision Trees and Ensemble Models based on trees
-6) **Laboratory: ** Case of study - classification model to predict predict score assignation based on US financial DB of customers; dim = [100000 x 27]  
+6) **Laboratory:** Case of study - classification model to predict predict score assignation based on US financial DB of customers; dim = [100000 x 27]  
 
 **Homework (from 26.10 until 07.11):**    
 1) Choose 1 machine learning task: REGRESSION or CLASSIFICATION;  
 2) Take as template the jupyter notebook **lesson03/lab03.ipynb** for REGRESSION PROBLEM or the notebook **lesson04/lab04.ipynb** for CLASSIFICATION PROBLEM and their support python scripts, following the steps described and adapting to your choosed problem and dataset;  
 3) Select one dataset with tabular data structure, which contains numerical and categorical type of data (need both necessarily). Dataset need have minimum 500 rows and number of columns (features) min = 6 and max = 50. You can use your own datasets from your past projects, your company or take one of the public datasets in the most popular repositories UCI (https://archive.ics.uci.edu/datasets); Kaggle (https://www.kaggle.com/datasets) or Google Dataset Search (https://datasetsearch.research.google.com). Your dataset can have format of file like .csv, .xls, .json, .sql, .data, .txt ... etc;  
 4) In your team of 4-5 students (groups of курсовая работа), support your ML Engineers, apply the entire pipeline of supervised learning and get as result a benchmark of metrics evaluating the quality of your model applied to your task choosing 3 algorithms to compare in your benchmark. OBS: members of team must reach a consensus on choosing 1 single problem and 1 dataset to all team work;  
-5) The professor will revise and analyze just the repository of Project Manager, which have the responsability of master coordination of the group and publish final results of homework coordinates with counterparts. 
+5) The professor will revise and analyze just the repository of Project Manager, which have the responsability of master coordination of the group and publish final results of homework coordinating with team. 
     
 ### Lesson 03 - Machine Learning I: Regression  
 ----------------------------------------------  
-**Topics: **
+**Topics:**
+  
 1) Pipeline methodology of Machine Learning for supervised learning problems
 2) Mathematical definition of Regression Problem
 3) True risk, empirical risk and loss functions for regression problem
 4) XGBoost Regressor architecture
 5) LightGBM Regressor architecture
-6) **Laboratory: ** Case of study - regression model to predict Melborne (AUS) Housing Prices; dim = [34857 x 21]  
+6) **Laboratory:** Case of study - regression model to predict Melborne (AUS) Housing Prices; dim = [34857 x 21]  
   
 ### Lesson 02 - Fundamentals of Machine Learning and Statistical Learning  
 --------------------------------------------------------------------------  
-**Topics: **
+**Topics:**
+  
 1) Definition of Learning in computer science point of view
 2) Definition and fundamentals of ML
 3) Supervised Learning and Unsupervised Learning
 4) Generalization bounds and Statistical Learning Theory
 5) Underfitting and Overfitting problems
-6) **Laboratory: ** Case of study - statistical analysis of numerical and categorical variables in US census salary income dataset; dim = [32561 x 15]   
+6) **Laboratory:** Case of study - statistical analysis of numerical and categorical variables in US census salary income dataset; dim = [32561 x 15]   
   
 **Homework (from 26.09 until 09.10):**    
   
@@ -75,7 +79,8 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 
 ### Lesson 01 - Introduction to the fundamentals of AI    
 -------------------------------------------------------  
-**Topics: **  
+**Topics:**  
+  
 1) Basic concepts of SW + Data and AI algorithms integration  
 2) Research fields of AI  
 3) AI Ecossystem  
