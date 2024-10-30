@@ -2,15 +2,18 @@ import numpy as np
 import pandas as pd
 import seaborn as sbn
 import matplotlib.pyplot as plt
-from sklearn.metrics import confusion_matrix
 
 # class to evaluate models
 class EvalClassifier:
     def __init__(self, model):
         self.model = model
     
-    def get_confusion_matrix(self, y_true, y_pred):
-        cm = confusion_matrix(y_true, y_pred)
+    def get_confusion_matrix(self, y_true, y_pred, classes):
+        class_idx = {label:index for index, label in enumerate(classes)}
+        cm = np.zeros((len(classes), len(classes)), dtype = int)
+
+        for true_label, pred_label in zip(y_true, y_pred):
+            cm[class_idx[true_label]][class_idx[pred_label]] += 1
         return cm
 
     def plot_confusion_matrix(self, cm, classes):
@@ -21,7 +24,7 @@ class EvalClassifier:
         plt.yticks(ticks=np.arange(len(classes))+0.5, labels=classes, rotation=45)
         plt.xlabel("Predicted labels")
         plt.ylabel("True labels")
-        plt.title()
+        plt.title("Confusion Matrix")
         plt.show()
     
     def calculate_metrics_by_class(self, confusion_matrix, classes):
@@ -35,10 +38,10 @@ class EvalClassifier:
 
             # calculate the metrics
             accuracy = (tp + tn)/(tp + fp + fn + tn)
-            precision = tp/(tp + fp) if (tp + fp) > 0 else 0
-            recall = tp/(tp + fn) if (tp + fn) > 0 else 0
-            specificity = tn/(tn + fp) if (tn + fp) > 0 else 0
-            f1_score = 2 * (precision * recall)/(precision + recall) if (precision + recall) > 0 else 0
+            precision = tp/(tp + fp)
+            recall = tp/(tp + fn)
+            specificity = tn/(tn + fp)
+            f1_score = 2 * (precision * recall)/(precision + recall)
 
             metrics_table.append([accuracy, precision, recall, specificity, f1_score])
         
@@ -52,7 +55,7 @@ class EvalClassifier:
         plt.figure(figsize = (9, 7))
         sbn.heatmap(metrics, annot = True, fmt = ".4f", cmap = "Blues", cbar = True)
         # add legends with class names
-        plt.xticks(ticks=np.arange(len(metrics.columns))+0.5, labels=metrics.columns, rotations=45)
+        plt.xticks(ticks=np.arange(len(metrics.columns))+0.5, labels=metrics.columns, rotation=45)
         plt.yticks(ticks=np.arange(len(metrics.index))+0.5, labels=metrics.index, rotation=45)
         plt.xlabel("Metrics")
         plt.ylabel("Classes")
@@ -69,6 +72,7 @@ class EvalClassifier:
         metrics_table = []
         metrics_table.append([accuracy, precision, recall, specificity, f1_score])
 
+        # generate data frame of metrics
         metrics_df = pd.DataFrame(metrics_table, index = ["Mean-metrics"],
                                   columns = ["accuracy", "precision", "recall", "specificity", "f1-score"])
         
