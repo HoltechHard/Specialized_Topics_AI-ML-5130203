@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
 **Topics:**  
-   
+https://meet.google.com/ksy-mmmq-jws  
 1) Perceptron  
 2) Adaline  
 3) Logistic Regression  
