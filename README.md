@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 5) Decision Trees and Ensemble Models based on trees
 6) **Laboratory:** Case of study - classification model to predict predict score assignation based on US financial DB of customers; dim = [100000 x 27]  
 
-**Homework (from 30.10 until 12.11):**    
+**Homework (from 30.10 until 10.11):**    
 1) Choose 1 machine learning task: REGRESSION or CLASSIFICATION;  
 2) Take as template the jupyter notebook **lesson03/lab03.ipynb** for REGRESSION PROBLEM or the notebook **lesson04/lab04.ipynb** for CLASSIFICATION PROBLEM and their support python scripts, following the steps described and adapting to your choosed problem and dataset;  
 3) Select one dataset with tabular data structure, which contains numerical and categorical type of data (need both necessarily). Dataset need have minimum 500 rows and number of columns (features) min = 6 and max = 50. You can use your own datasets from your past projects, your company or take one of the public datasets in the most popular repositories UCI (https://archive.ics.uci.edu/datasets); Kaggle (https://www.kaggle.com/datasets) or Google Dataset Search (https://datasetsearch.research.google.com). Your dataset can have format of file like .csv, .xls, .json, .sql, .data, .txt ... etc;  
