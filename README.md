@@ -9,7 +9,11 @@ The main purpose of the course is offer to the students of professional carreer 
 The repository will contain all the slides of lectures and the necessary files to can complete the assigned tasks, and it will be updated each friday of the week.  
 Link of the repository:  
 https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sharing  
-  
+
+### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
+Link of score results for groups 20101 and 20102: 
+https://docs.google.com/spreadsheets/d/16W4UvXPeD7f5PnQFRslNHkS_wXkX-yc6/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true  
+
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
 **Topics:**  
