@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 
 ### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
 Link of score results for groups 20101 and 20102:    
-https://docs.google.com/spreadsheets/d/16W4UvXPeD7f5PnQFRslNHkS_wXkX-yc6/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true    
+https://docs.google.com/spreadsheets/d/1zsdlLLRdGc5ZMfR3AVv3wGAzpAukrhfM/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true    
    
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
