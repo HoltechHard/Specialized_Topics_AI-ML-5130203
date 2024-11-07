@@ -30,6 +30,7 @@ https://docs.google.com/spreadsheets/d/1zsdlLLRdGc5ZMfR3AVv3wGAzpAukrhfM/edit?us
       * draw of model architecture  
       * vector representation of data (inputs and outputs)  
       * math formulation of linear combination, activation function and loss function
+      * math formulation of how neural nets calculate the predictions (y_hat)  
       * explanation of gradient descendent algorithm      
       * formulas of gradients and weights/biases updates  
   
