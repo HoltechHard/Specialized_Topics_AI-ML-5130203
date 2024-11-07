@@ -21,8 +21,24 @@ https://docs.google.com/spreadsheets/d/1zsdlLLRdGc5ZMfR3AVv3wGAzpAukrhfM/edit?us
 1) Perceptron  
 2) Logistic Regression  
 3) Multilayer Perceptron
-4) **Laboratory:** Case of study - implementation from scratch of internal math mechanisms of neural nets and train/testing it on known datasets  
+4) **Laboratory:** Case of study - implementation from scratch of internal math mechanisms of neural nets and train/testing it on known datasets
 
+**Homework (from 07.11 until 21.11):**  
+1) Report about Neural Networks  
+   - Working individually, make a pdf report with the mathematical formulation of algorithms **Perceptron** and **Logistic Regression**.
+   - The report need contains the next points for both algorithms:  
+      * draw of model architecture  
+      * vector representation of data (inputs and outputs)  
+      * math formulation of linear combination, activation function and loss function
+      * explanation of gradient descendent algorithm      
+      * formulas of gradients and weights/biases updates  
+  
+2) Experiments with Neural Networks  
+   - Working in your team of 4-5 students (groups of курсовая работа), choose 1 dataset for linear separable problem for perceptron and 1 dataset for non-linear separable problem for multilayer perceptron and follow the pipeline to solve a CLASSIFICATION PROBLEM (could be binary or multiclass). If you want, you can generate data synthetically using Python math functions, but make sure that the data set will follow a linear pattern to be able to use the perceptron and a non-linear pattern to use the MLP.  
+   - Use the algorithms in files **lesson05/scripts/perceptron.py** for perceptron and **lesson05/scripts/mlp.py** for MLP like class templates to build your neural networks architectures, train and test the models. You can adapt these codes according your needs. Don't use frameworks like pytorch or tensorflow yet.   
+   - Use the necessary scripts of folder **lesson04/scripts** to build your confusion matrix and calculate the metrics of classification: accuracy, precision, recall, specificity and f1-score for your classification problem applying your datasets.      
+   - The project manager (leader of group) need publish the project in Github. Professor will revise the Github repo just from project manager. You need present your jupyter notebook with all your results together with your python scripts used in your project.  
+   
 ### Lesson 04 - Machine Learning II: Classification  
 ---------------------------------------------------  
 **Topics:**   
