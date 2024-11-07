@@ -9,7 +9,11 @@ The main purpose of the course is offer to the students of professional carreer 
 The repository will contain all the slides of lectures and the necessary files to can complete the assigned tasks, and it will be updated each friday of the week.  
 Link of the repository:  
 https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sharing  
-  
+
+### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
+Link of score results for groups 20101 and 20102:    
+https://docs.google.com/spreadsheets/d/1zsdlLLRdGc5ZMfR3AVv3wGAzpAukrhfM/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true    
+   
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
 **Topics:**  
@@ -17,8 +21,24 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 1) Perceptron  
 2) Logistic Regression  
 3) Multilayer Perceptron
-4) **Laboratory:** Case of study - implementation from scratch of internal math mechanisms of neural nets and train/testing it on known datasets  
+4) **Laboratory:** Case of study - implementation from scratch of internal math mechanisms of neural nets and train/testing it on known datasets
 
+**Homework (from 07.11 until 21.11):**  
+1) Report about Neural Networks  
+   - Working individually, make a pdf report with the mathematical formulation of algorithms **Perceptron** and **Logistic Regression**.
+   - The report need contains the next points for both algorithms:  
+      * draw of model architecture  
+      * vector representation of data (inputs and outputs)  
+      * math formulation of linear combination, activation function and loss function
+      * explanation of gradient descendent algorithm      
+      * formulas of gradients and weights/biases updates  
+  
+2) Experiments with Neural Networks  
+   - Working in your team of 4-5 students (groups of курсовая работа), choose 1 dataset for linear separable problem for perceptron and 1 dataset for non-linear separable problem for multilayer perceptron and follow the pipeline to solve a CLASSIFICATION PROBLEM (could be binary or multiclass). If you want, you can generate data synthetically using Python math functions, but make sure that the data set will follow a linear pattern to be able to use the perceptron and a non-linear pattern to use the MLP.  
+   - Use the algorithms in files **lesson05/scripts/perceptron.py** for perceptron and **lesson05/scripts/mlp.py** for MLP like class templates to build your neural networks architectures, train and test the models. You can adapt these codes according your needs. Don't use frameworks like pytorch or tensorflow yet.   
+   - Use the necessary scripts of folder **lesson04/scripts** to build your confusion matrix and calculate the metrics of classification: accuracy, precision, recall, specificity and f1-score for your classification problem applying your datasets.      
+   - The project manager (leader of group) need publish the project in Github. Professor will revise the Github repo just from project manager. You need present your jupyter notebook with all your results together with your python scripts used in your project.  
+   
 ### Lesson 04 - Machine Learning II: Classification  
 ---------------------------------------------------  
 **Topics:**   
@@ -30,7 +50,7 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 5) Decision Trees and Ensemble Models based on trees
 6) **Laboratory:** Case of study - classification model to predict predict score assignation based on US financial DB of customers; dim = [100000 x 27]  
 
-**Homework (from 30.10 until 12.11):**    
+**Homework (from 30.10 until 10.11):**    
 1) Choose 1 machine learning task: REGRESSION or CLASSIFICATION;  
 2) Take as template the jupyter notebook **lesson03/lab03.ipynb** for REGRESSION PROBLEM or the notebook **lesson04/lab04.ipynb** for CLASSIFICATION PROBLEM and their support python scripts, following the steps described and adapting to your choosed problem and dataset;  
 3) Select one dataset with tabular data structure, which contains numerical and categorical type of data (need both necessarily). Dataset need have minimum 500 rows and number of columns (features) min = 6 and max = 50. You can use your own datasets from your past projects, your company or take one of the public datasets in the most popular repositories UCI (https://archive.ics.uci.edu/datasets); Kaggle (https://www.kaggle.com/datasets) or Google Dataset Search (https://datasetsearch.research.google.com). Your dataset can have format of file like .csv, .xls, .json, .sql, .data, .txt ... etc;  
