@@ -13,6 +13,10 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 ### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
 Link of score results for groups 20101 and 20102:    
 https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true      
+
+### Lesson 06 - Deep Learning II: Building Deep Neural Nets with Pytorch  
+--------------------------------------------------------------------------  
+
    
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
