@@ -14,7 +14,7 @@ x = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, -1].values
 
 # build MLP architecture
-model = MLPAlgorithm(eta = 0.1, threshold = 1e-4, max_epochs = 10000)
+model = MLPAlgorithm(eta = 0.1, threshold = 1e-4, max_epochs = 20000)
 model.build_architecture(input_length = 2, hidden_length = 2, output_length = 1)        
 
 # training step
