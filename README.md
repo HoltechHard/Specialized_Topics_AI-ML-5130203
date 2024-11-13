@@ -12,7 +12,12 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 
 ### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
 Link of score results for groups 20101 and 20102:    
-https://docs.google.com/spreadsheets/d/1zsdlLLRdGc5ZMfR3AVv3wGAzpAukrhfM/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true    
+https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true      
+
+### Lesson 06 - Deep Learning II: Building and Training Deep Neural Nets with Pytorch   
+---------------------------------------------------------------------------------------    
+
+    
    
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
@@ -25,11 +30,12 @@ https://docs.google.com/spreadsheets/d/1zsdlLLRdGc5ZMfR3AVv3wGAzpAukrhfM/edit?us
 
 **Homework (from 07.11 until 21.11):**  
 1) Report about Neural Networks  
-   - Working individually, make a pdf report with the mathematical formulation of algorithms **Perceptron** and **Logistic Regression**.
+   - Working individually, make a pdf report with the mathematical formulation of algorithms **Perceptron**, **Logistic Regression** and **Multilayer Perceptron**
    - The report need contains the next points for both algorithms:  
       * draw of model architecture  
       * vector representation of data (inputs and outputs)  
       * math formulation of linear combination, activation function and loss function
+      * math formulation of how neural nets calculate the predictions (y_hat)  
       * explanation of gradient descendent algorithm      
       * formulas of gradients and weights/biases updates  
   
