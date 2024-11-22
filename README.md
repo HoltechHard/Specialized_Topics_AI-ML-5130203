@@ -31,7 +31,17 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 2) Deep Neural Nets applied to Regression Problem
 3) Deep Neural Nets applied to Classification Problem
 4) **Laboratory:** Case of study - prediction of fuel consumption with dim = [398 x 8]; and breast cancer classification with dim = [569 x 32]  
-     
+
+**Homework (from 27.11 until 05.12):**   
+1) Report about Neural Networks as paradigm to simulate human intelligence  
+   - Working individually, read the article "**The Nobel Prize in Physics 2024 - Geoffrey Hinton & John Hopfield**"  
+     link: https://www.nobelprize.org/prizes/physics/2024/popular-information/   
+   - What the interview to Geoffrey Hinton did by Royal Institute of UK, titled: "**On working with Ilya Sutskever, choosing problems, and the power of intuition**"  
+     link: https://www.youtube.com/watch?v=n4IQOBka8bc   
+   - Make a report (1 page) answering the next questions:    
+       a) What led Geoffrey Hinton to believe in neural networks as the right path to understanding and simulating human intelligence?   
+       b) How physics fundamentals help Geoffrey Hinton to obtain the necessary insights to develop his research and discoveries related with Neural Nets?   
+    
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
 **Topics:**  
