@@ -13,12 +13,25 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 ### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
 Link of score results for groups 20101 and 20102:    
 https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true      
+  
+### Lesson 07 - Deep Learning III: Computer Vision   
+--------------------------------------------------
+**Topics:**  
 
+1) Deep Neural Nets applied for multiclassification of images  
+2) Convolutional Neural Networks (CNN)  
+3) Generative Adversarial Networks (GAN)    
+  
+  
 ### Lesson 06 - Deep Learning II: Building and Training Deep Neural Nets with Pytorch   
 ---------------------------------------------------------------------------------------    
+**Topics:**  
 
-    
-   
+1) Introduction of Pytorch
+2) Deep Neural Nets applied to Regression Problem
+3) Deep Neural Nets applied to Classification Problem
+4) **Laboratory:** Case of study - prediction of fuel consumption with dim = [398 x 8]; and breast cancer classification with dim = [569 x 32]  
+     
 ### Lesson 05 - Deep Learning I: Neural Networks  
 ---------------------------------------------------  
 **Topics:**  
@@ -28,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 3) Multilayer Perceptron
 4) **Laboratory:** Case of study - implementation from scratch of internal math mechanisms of neural nets and train/testing it on known datasets
 
-**Homework (from 07.11 until 21.11):**  
+**Homework (from 07.11 until 28.11):**  
 1) Report about Neural Networks  
    - Working individually, make a pdf report with the mathematical formulation of algorithms **Perceptron**, **Logistic Regression** and **Multilayer Perceptron**
    - The report need contains the next points for both algorithms:  
