@@ -38,7 +38,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
      link: https://www.nobelprize.org/prizes/physics/2024/popular-information/   
    - Watch the interview to Geoffrey Hinton did by Royal Institute of UK, titled: "**On working with Ilya Sutskever, choosing problems, and the power of intuition**"  
      link: https://www.youtube.com/watch?v=n4IQOBka8bc   
-   - Make a report (1 page) answering the next questions:    
+   - Make a pdf report (1 page) answering the next questions:    
        a) What led Geoffrey Hinton to believe in neural networks as the right path to understanding and simulating human intelligence?   
        b) How physics fundamentals help Geoffrey Hinton to obtain the necessary insights to develop his research and discoveries related with Neural Nets?   
     
@@ -53,7 +53,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 
 **Homework (from 07.11 until 28.11):**  
 1) Report about Neural Networks  
-   - Working individually, make a pdf report with the mathematical formulation of algorithms **Perceptron**, **Logistic Regression** and **Multilayer Perceptron**
+   - Working individually, make a pdf report (maximum 3 pages, 1 page for each model) with the mathematical formulation of algorithms **Perceptron**, **Logistic Regression** and **Multilayer Perceptron**  
    - The report need contains the next points for both algorithms:  
       * draw of model architecture  
       * vector representation of data (inputs and outputs)  
