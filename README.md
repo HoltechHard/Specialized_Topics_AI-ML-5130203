@@ -36,7 +36,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 1) Report about Neural Networks as paradigm to simulate human intelligence  
    - Working individually, read the article "**The Nobel Prize in Physics 2024 - Geoffrey Hinton & John Hopfield**"  
      link: https://www.nobelprize.org/prizes/physics/2024/popular-information/   
-   - What the interview to Geoffrey Hinton did by Royal Institute of UK, titled: "**On working with Ilya Sutskever, choosing problems, and the power of intuition**"  
+   - Watch the interview to Geoffrey Hinton did by Royal Institute of UK, titled: "**On working with Ilya Sutskever, choosing problems, and the power of intuition**"  
      link: https://www.youtube.com/watch?v=n4IQOBka8bc   
    - Make a report (1 page) answering the next questions:    
        a) What led Geoffrey Hinton to believe in neural networks as the right path to understanding and simulating human intelligence?   
