@@ -19,8 +19,9 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 **Topics:**  
 
 1) Deep Neural Nets applied for multiclassification of images  
-2) Convolutional Neural Networks (CNN)  
-3) Generative Adversarial Networks (GAN)    
+2) Convolutional Neural Networks (CNN)
+3) Vision Transformer (ViT)
+4) Generative Adversarial Networks (GAN)    
   
   
 ### Lesson 06 - Deep Learning II: Building and Training Deep Neural Nets with Pytorch   
@@ -32,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 3) Deep Neural Nets applied to Classification Problem
 4) **Laboratory:** Case of study - prediction of fuel consumption with dim = [398 x 8]; and breast cancer classification with dim = [569 x 32]  
 
-**Homework (from 27.11 until 05.12):**   
+**Homework (from 27.11 until 08.12):**   
 1) Report about Neural Networks as paradigm to simulate human intelligence  
    - Working individually, read the article "**The Nobel Prize in Physics 2024 - Geoffrey Hinton & John Hopfield**"  
      link: https://www.nobelprize.org/prizes/physics/2024/popular-information/   
@@ -51,7 +52,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 3) Multilayer Perceptron
 4) **Laboratory:** Case of study - implementation from scratch of internal math mechanisms of neural nets and train/testing it on known datasets
 
-**Homework (from 07.11 until 28.11):**  
+**Homework (from 07.11 until 01.12):**  
 1) Report about Neural Networks  
    - Working individually, make a pdf report (maximum 3 pages, 1 page for each model) with the mathematical formulation of algorithms **Perceptron**, **Logistic Regression** and **Multilayer Perceptron**  
    - The report need contains the next points for both algorithms:  
