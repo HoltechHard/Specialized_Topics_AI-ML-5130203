@@ -13,6 +13,33 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 ### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
 Link of score results for groups 20101 and 20102:    
 https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true      
+
+### Lesson 08 - Deep Learning IV: Multimodal Intelligent System  
+----------------------------------------------------------------   
+**Topics:**   
+  
+1) Visual Encoder-Decoder ViT + GPT-2 Architecture   
+2) **Laboratory**: Case of study - Multimodal Intelligent System for generating captions from uploaded images  
+3) Repo of project: https://github.com/HoltechHard/CaptionGeneratorApp  
+
+**News: **  
+1) Each group need define the next aspects of project:  
+   - name of topic  
+   - what dataset will use for MLOps  
+   - list of technologies used to implement MLOps and System Development  
+   
+2) The project of end semester (курсовая работа) will split in 2 parts:  
+     
+   **Part 01: MLOps**  Day: <in 2nd half of December-2024, in time defined by session of exams>   
+   - Jupyter Notebook file with pipeline of task solution, benchmarks of metrics (min 2 models need compare) and inference using weights and biases of model (file will store in .pt, .pth, .pkl, .pickle, etc...)   
+   - Report between 4-8 pages in format of paper *in english language* following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results;   
+   - Group presentation (All members must be present): score is individual, depending of comprehension of your task, the solution and answers to professor questions   
+   - Comments: is not necessary make slides. Jupyter notebook + Report is enough  
+       
+   **Part 02: System Development**  Day: <in 1st half of January-2025, in time defined by session of exams>   
+   - Integrated system with ML model + frontend + backend + database   
+   - Group presentation (All members must be present): score is collective, expose system running with web interface and explain the components of system and explain the technologies used   
+   - Comments: is not necessary make slides. Running system + source code published in GitHub is enough   
   
 ### Lesson 07 - Deep Learning III: Computer Vision   
 --------------------------------------------------
@@ -20,9 +47,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 
 1) Deep Neural Nets applied for multiclassification of images  
 2) Convolutional Neural Networks (CNN)
-3) Vision Transformer (ViT)
-4) Generative Adversarial Networks (GAN)    
-  
+3) Vision Transformer (ViT)  
   
 ### Lesson 06 - Deep Learning II: Building and Training Deep Neural Nets with Pytorch   
 ---------------------------------------------------------------------------------------    
@@ -32,7 +57,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 2) Deep Neural Nets applied to Regression Problem
 3) Deep Neural Nets applied to Classification Problem
 4) **Laboratory:** Case of study - prediction of fuel consumption with dim = [398 x 8]; and breast cancer classification with dim = [569 x 32]  
-
+  
 **Homework (from 27.11 until 08.12):**   
 1) Report about Neural Networks as paradigm to simulate human intelligence  
    - Working individually, read the article "**The Nobel Prize in Physics 2024 - Geoffrey Hinton & John Hopfield**"  
