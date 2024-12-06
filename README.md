@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
      
    **Part 01: MLOps**  Day: <in 2nd half of December-2024, in time defined by session of exams>   
    - Jupyter Notebook file with pipeline of task solution, benchmarks of metrics (min 2 models need compare) and inference using weights and biases of model (file will store in .pt, .pth, .pkl, .pickle, etc...)   
-   - Report between 4-8 pages in format of paper *in english language* following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results;   
+   - Report between 4-8 pages in format of paper *in english language* following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results; 4- Conclusions;  
    - Group presentation (All members must be present): score is individual, depending of comprehension of your task, the solution and answers to professor questions   
    - Comments: is not necessary make slides. Jupyter notebook + Report is enough  
        
