@@ -22,7 +22,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 2) **Laboratory**: Case of study - Multimodal Intelligent System for generating captions from uploaded images  
 3) Repo of project: https://github.com/HoltechHard/CaptionGeneratorApp  
 
-**News: **  
+**News:**  
 1) Each group need define the next aspects of project:  
    - name of topic  
    - what dataset will use for MLOps  
