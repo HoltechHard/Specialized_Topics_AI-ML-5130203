@@ -13,16 +13,69 @@ https://drive.google.com/drive/folders/1yMlQ84DXPC5XFxwZYOjCkUy0HjL5DsTR?usp=sha
 ### Partial scores (Sep-Oct) of Homeworks (scale [0-100])  
 Link of score results for groups 20101 and 20102:    
 https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?usp=sharing&ouid=102162186379183170525&rtpof=true&sd=true      
+
+### Final Project for Course (курсовая работа)   
+----------------------------------------------    
+**Presentation Day:**  
+- For group 5130203/20101:  
+  * day 01: 21.12.2024 at 14:00 - 16:40 pm; room: 11k-324   
+  * day 02: 14.01.2025 at 14:00 - 17:00 pm; room: 11k-324   
+- For group 5130203/20102:   
+  * day 01: 21.12.2024 at 10:00 - 12:40 pm; room: 11k-324   
+  * day 02: 14.01.2025 at 11:00 - 14:00 pm; room: 11k-324   
+   
+**Task Definition:**   
+* For the completion of the final course project, the students will organize in groups of 4 students, which each one will play one or more of the next roles:  
+  - Project Manager: responsible for structure the project, the definition of the use-case problem and what technologies used for system development (frameworks, libraries, databases, models, etc.), and redaction of the final report;  
+  - Software Engineer - Frontend: responsible for design the frontend development and validation of aplication;  
+  - Software Engineer - Backend: responsible for integration of frontend with backend and database;   
+  - Machine Learning Engineer: responsible for machine learning operations (dataset loading, preprocessing, design of model architecture, training, testing, validation, inference process and ai-model deployement)  
+
+* The students will need select one specific use case with their respective dataset (financial, medical, comercial, educational, industrial, etc.) and fix this problem through the implementation of a small intelligent information system that contains frontend, backend, small database and AI-model. In the session of exams (сессия по зкзамене) each group will make presentation (доклад) of the next products:   
+  - report between 4-8 pages (Responsible: Project Manager) in format of paper following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results; 4- Conclusions;   
+  - information system (Responsible: Software Engineers) which contains frontend, and backend with connection with small database;   
+  - trained AI-model (Responsible: Machine Learning Engineer) with jupyter notebook source code, experiments of inference and performance results.  
   
+* In MLOps is necessary make benchmark of 2 ML/DL models and compare the performance using the metrics related with the task (regression or classification).  
+* In System development you will deploy just the best model to work integrated with system.  
+
+**Instructions for presentation:**   
+
+The project of end semester (курсовая работа) will split in 2 parts:  
+     
+   **Part 01: MLOps**  
+   - Jupyter Notebook file with pipeline of task solution, benchmarks of metrics (min 2 models need compare) and inference using weights and biases of model (file will store in .pt, .pth, .pkl, .pickle, etc...)   
+   - Report between 4-8 pages in format of paper *in english language* following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results; 4- Conclusions;  
+   - Group presentation (All members must be present): score is individual, depending of comprehension of your task, the solution and answers to professor questions   
+   - Comments: is not necessary make slides. Jupyter notebook + Report is enough  
+       
+   **Part 02: System Development**   
+   - Integrated system with ML model + frontend + backend + small database   
+   - Group presentation (All members must be present): score is collective, expose system running with web interface and explain the components of system and explain the technologies used   
+   - Comments: is not necessary make slides. Running system + source code published in GitHub repo of project manager is enough   
+
+
+### Lesson 08 - Deep Learning IV: Multimodal Intelligent System  
+----------------------------------------------------------------   
+**Topics:**   
+  
+1) Visual Encoder-Decoder ViT + GPT-2 Architecture   
+2) **Laboratory**: Case of study - Multimodal Intelligent System for generating captions from uploaded images  
+3) Repo of project: https://github.com/HoltechHard/CaptionGeneratorApp  
+
+**News:**  
+1) Each group need define the next aspects of project (for next week):  
+   - name of topic  
+   - what dataset will use for MLOps  
+   - list of technologies used to implement MLOps and System Development     
+   
 ### Lesson 07 - Deep Learning III: Computer Vision   
 --------------------------------------------------
 **Topics:**  
 
 1) Deep Neural Nets applied for multiclassification of images  
 2) Convolutional Neural Networks (CNN)
-3) Vision Transformer (ViT)
-4) Generative Adversarial Networks (GAN)    
-  
+3) Vision Transformer (ViT)  
   
 ### Lesson 06 - Deep Learning II: Building and Training Deep Neural Nets with Pytorch   
 ---------------------------------------------------------------------------------------    
@@ -32,7 +85,7 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 2) Deep Neural Nets applied to Regression Problem
 3) Deep Neural Nets applied to Classification Problem
 4) **Laboratory:** Case of study - prediction of fuel consumption with dim = [398 x 8]; and breast cancer classification with dim = [569 x 32]  
-
+  
 **Homework (from 27.11 until 08.12):**   
 1) Report about Neural Networks as paradigm to simulate human intelligence  
    - Working individually, read the article "**The Nobel Prize in Physics 2024 - Geoffrey Hinton & John Hopfield**"  
@@ -146,15 +199,4 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 - First 10 lectures (related with theory and labs): Will be seletect 5 specialized AI and ML topics from document **list_topics.txt** distributed and discussed in 2 weeks with theory and practice in both;  
 - Last 3 lectures (related with final project): Laboratories about software implementation and integration of information system with AI-models.  
   
-### Final Project for Course   
------------------------------  
-For the completion of the final course project, the students will organize in groups of 4 students, which each one will play one or more of the next roles:  
-  - Project Manager: responsible for structure the project, the definition of the use-case problem and what technologies will be use (frameworks, libraries, databases, models, etc.), and redaction of the final report;
-  - Software Engineer - Frontend: responsible for design the frontend development and validation of aplication;
-  - Software Engineer - Backend: responsible for integration of frontend with backend and database;
-  - Machine Learning Engineer: responsible for machine learning operations (preprocessing, design of model architecture, training, testing, validation and inference process)
-
-The students will need select one specific use case with their respective dataset (financial, medical, comercial, educational, industrial, etc.) and fix this problem through the implementation of a small intelligent information system that contains frontend, backend, small database and AI-model. In the session of exams (сессия по зкзамене) each group will make presentation (доклад) of the next products:  
-  - report between 4-8 pages (Responsible: Project Manager) in format of paper following the structure: 1- Problem Statement; 2- Methodology of Solution; 3- Results; 4- Conclusions;
-  - information system (Responsible: Software Engineers) which contains frontend, and backend with connection with small database;
-  - trained AI-model (Responsible: Machine Learning Engineer) with jupyter notebook source code, experiments of inference and performance results.
+  
