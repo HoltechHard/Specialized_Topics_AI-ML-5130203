@@ -18,11 +18,11 @@ https://docs.google.com/spreadsheets/d/1CVksCzIFo023JQiaenIKWVeGO736eXYZ/edit?us
 ----------------------------------------------    
 **Presentation Day:**  
 - For group 5130203/20101:  
-  * day 01: 21.12.2024 at 14:00 - 16:40 pm; room: 11k-324   
-  * day 02: 14.01.2025 at 14:00 - 17:00 pm; room: 11k-324   
+  * day 01 (Machine Learning Ops): 21.12.2024 at 14:00 - 16:40 pm; room: 11k-324   
+  * day 02 (System Development): 14.01.2025 at 14:00 - 17:00 pm; room: 11k-324   
 - For group 5130203/20102:   
-  * day 01: 21.12.2024 at 10:00 - 12:40 pm; room: 11k-324   
-  * day 02: 14.01.2025 at 11:00 - 14:00 pm; room: 11k-324   
+  * day 01 (Machine Learning Ops): 21.12.2024 at 10:00 - 12:40 pm; room: 11k-324   
+  * day 02 (System Development): 14.01.2025 at 11:00 - 14:00 pm; room: 11k-324   
    
 **Task Definition:**   
 * For the completion of the final course project, the students will organize in groups of 4 students, which each one will play one or more of the next roles:  
